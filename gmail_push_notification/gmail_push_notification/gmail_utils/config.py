@@ -1,0 +1,11 @@
+SOURCE_EMAIL = "<email>"
+STORE_DIR = "<source-dir>"
+LOG_DIR = "<logs-dir>"
+FTP_SERVER = "<ftp-server>"
+FTP_PORT = 21
+FTP_USER = "<ftp-user>"
+FTP_PASS = "<ftp-pass>"
+FTP_UPLOAD_DIR = "<upload-dir>"
+CLIENT_SECRETS_FILE = "/opt/enact/data/client_secret_enact.json"
+REFRESH_TOKEN = "<refresh-token>"
+GOOGLE_API = "https://www.googleapis.com/oauth2/v4/token"
