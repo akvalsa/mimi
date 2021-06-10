@@ -1,7 +1,7 @@
 amqp==2.2.2
 billiard==3.5.0.3
 celery==4.1.0
-Django==1.8
+Django==2.2.24
 google-api-python-client==1.6.4
 httplib2==0.10.3
 kombu==4.1.0
